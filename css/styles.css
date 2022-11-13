@@ -44,7 +44,7 @@ body {
 }
 
 .footer-contact-link {
-    font-style: normal;
+     
     font-size: 14px;
     line-height: 1.71;
     color: var(--footer-text-color);
@@ -114,7 +114,7 @@ body {
     letter-spacing: 0.06em;
     background-color: var(--accent-color);
     color: var(--white-text-color);
-    cursor: pointer;
+     
 }
 
 .hero-btn:hover,
@@ -184,7 +184,7 @@ body {
     letter-spacing: 0.03em;
     background-color: var(--team-background-color);
     color: var(--primary-text-color);
-    cursor: pointer;
+     
 }
 
 .portfolio-btn:hover,
